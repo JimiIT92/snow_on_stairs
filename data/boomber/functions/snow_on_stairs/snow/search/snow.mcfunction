@@ -1,0 +1,2 @@
+execute align xyz positioned ~0.5 ~0.5 ~0.5 if block ~ ~ ~ #boomber:snow_on_stairs/snowable unless entity @e[type=armor_stand, tag=boomber.snow_on_stairs.snow, distance=..0.3] run function boomber:snow_on_stairs/snow/check/snow
+execute as @s[distance=..5.5] if score #raycast bb.cs.success matches 0 positioned ^ ^ ^0.1 run function boomber:snow_on_stairs/snow/search/snow

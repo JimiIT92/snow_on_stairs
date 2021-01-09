@@ -1,0 +1,6 @@
+{
+	"parent": "boomber:snow_on_stairs/block/stairs/outer_left",
+	"textures": {
+		"material": "block/snow"
+	}
+}

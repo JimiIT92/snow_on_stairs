@@ -1,0 +1,1 @@
+execute if score @s bb.cs.color matches 0 run loot spawn ~ ~ ~ loot boomber:snow_on_stairs/item/snow

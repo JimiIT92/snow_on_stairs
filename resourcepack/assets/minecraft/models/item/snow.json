@@ -1,0 +1,47 @@
+{
+	"parent": "block/snow_height2",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 8080000
+			},
+			"model": "boomber:snow_on_stairs/block/extension/colors/snow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080016
+			},
+			"model": "boomber:snow_on_stairs/block/slabs/colors/snow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080032
+			},
+			"model": "boomber:snow_on_stairs/block/stairs/straight/snow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080048
+			},
+			"model": "boomber:snow_on_stairs/block/stairs/inner_left/snow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080064
+			},
+			"model": "boomber:snow_on_stairs/block/stairs/inner_right/snow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080080
+			},
+			"model": "boomber:snow_on_stairs/block/stairs/outer_left/snow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8080096
+			},
+			"model": "boomber:snow_on_stairs/block/stairs/outer_right/snow"
+		}
+	]
+}

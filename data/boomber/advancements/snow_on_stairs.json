@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": "Snow on Stairs",
+		"description": "A complete rewrite",
+		"icon": {
+			"item": "minecraft:snow"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "global:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	
+	}
+}

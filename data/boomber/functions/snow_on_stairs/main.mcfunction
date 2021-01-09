@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand, tag=boomber.snow_on_stairs.snow] at @s run function boomber:snow_on_stairs/snow/main

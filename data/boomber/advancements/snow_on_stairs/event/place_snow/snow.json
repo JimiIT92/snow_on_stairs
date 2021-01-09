@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"place_snow": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"item": "minecraft:snow"
+				}
+			}
+		}
+	},
+	"parent": "boomber:snow_on_stairs/event/root",
+	"rewards": {
+		"function": "boomber:snow_on_stairs/event/place_snow/snow"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "boomber:carpet_on_stairs/block/stairs/inner_left",
-	"textures": {
-		"material": "block/pink_wool"
-	}
-}

@@ -1,0 +1,1 @@
+execute if score @s bb.cs.color matches 0 run particle block minecraft:snow ~ ~ ~ 0.35 0.35 0.35 1 10 normal @a
