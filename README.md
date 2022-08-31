@@ -10,3 +10,7 @@ Updated for 1.19.2!
 2) Install "Snow on Stairs resourcepack" in `/resourcepacks/` folder
 3) Install "Snow on Stairs datapack" in datapack folder
 4) Enjoy ☜( ﾟヮﾟ☜)
+
+# Download
+
+You can download both the DataPack and the Resource Pack on [CurseForge](https://www.curseforge.com/minecraft/customization/snow-on-stairs-datapack)
