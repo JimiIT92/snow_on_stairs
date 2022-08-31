@@ -3,7 +3,7 @@ This datapack let you place snow inside stairs, slabs and many non-solid block.
 
 This is a modification of the [Carpet on Stairs Datapack](https://github.com/oOBoomberOo/carpet_on_stairs) by **oOBoomberOo**. All credits goes to him! 😁
 
-Updated for 1.16.4!
+Updated for 1.19.2!
 
 # Installation
 1) Extract zip file
