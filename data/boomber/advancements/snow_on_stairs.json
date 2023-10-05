@@ -1,18 +1,18 @@
 {
 	"display": {
-		"title": "Snow on Stairs",
-		"description": "A complete rewrite",
 		"icon": {
 			"item": "minecraft:snow"
 		},
-		"announce_to_chat": false,
-		"show_toast": false
+		"title": "Snow on Stairs",
+		"description": "Snowify your Minecraft World!",
+		"frame": "challenge",
+		"show_toast": false,
+		"announce_to_chat": false
 	},
-	"parent": "global:boomber",
+	"parent": "global:minehendrix",
 	"criteria": {
-		"trigger": {
+		"requirement": {
 			"trigger": "minecraft:tick"
 		}
-	
 	}
 }

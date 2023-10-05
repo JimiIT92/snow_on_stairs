@@ -13,12 +13,12 @@
 						}
 					},
 					{
-					  "condition": "minecraft:match_tool",
-					  "predicate": {
-						"items": [
-						  "minecraft:snow"
-						]
-					  }
+						"condition": "minecraft:match_tool",
+						"predicate": {
+							"items": [
+								"minecraft:snow"
+							]
+						}
 					}
 				]
 			}
