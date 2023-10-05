@@ -1,11 +1,26 @@
 {
 	"criteria": {
 		"place_snow": {
-			"trigger": "minecraft:placed_block",
+			"trigger": "minecraft:item_used_on_block",
 			"conditions": {
-				"item": {
-					"item": "minecraft:snow"
-				}
+				"location": [
+					{
+						"condition": "minecraft:location_check",
+						"predicate": {
+							"block": {
+								"tag": "boomber:snow_on_stairs/snowable"
+							}
+						}
+					},
+					{
+					  "condition": "minecraft:match_tool",
+					  "predicate": {
+						"items": [
+						  "minecraft:snow"
+						]
+					  }
+					}
+				]
 			}
 		}
 	},

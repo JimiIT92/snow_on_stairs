@@ -1,0 +1,5 @@
+HOW TO USE THE DATAPACK
+
+1 - Extract the ZIP file (DO NOT unzip the two files inside)
+2 - Put the resource pack ZIP file inside the resource pack folder (or drag and drop in the resource packs screen)
+3 - Put the data pack ZIP file inside the world data pack folder (or drag and drop in the data packs screen during world creation)
