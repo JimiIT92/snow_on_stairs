@@ -1,5 +1,5 @@
 # WARNING
-### This project has now moved to its own repository [here](https://github.com/JimiIT92/SnowOnStairs). New content will be added there, so please make sure to check that repository and its releases as well 😁
+**This project has now moved to its own repository [here](https://github.com/JimiIT92/SnowOnStairs). New content will be added there, so please make sure to check that repository and its releases as well 😁**
 
 # Snow on Stairs
 This datapack let you place snow inside stairs, slabs and many non-solid block.
